@@ -2,7 +2,7 @@
   "name": "thesebucks",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://fujilabs528.github.io/missgreentop",
+  "homepage": "https://fujilabs528.github.io/missredtop",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
